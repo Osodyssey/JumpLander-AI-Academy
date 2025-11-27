@@ -25,7 +25,7 @@ JumpLander (جامپ لندر) بزرگ‌ترین جامعه برنامه‌ن�
 |-----|------|---------|
 | JumpLander | [GitHub](https://github.com/jumplander-readme) | [Twitter](https://twitter.com/jumplander) | [Hugging Face](https://huggingface.co/jumplander) |
 | Odyssey | [GitHub](https://github.com/osodyssey) |
-| Outis |  [GitHub](https://github.com/outis-dev) |
+| Outis | [GitHub](https://github.com/outis-dev) |
 
 > تمام اعضای تیم از ایران هستند و این پروژه به زبان فارسی طراحی و توسعه داده شده است.
 
