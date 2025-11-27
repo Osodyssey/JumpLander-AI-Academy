@@ -22,7 +22,7 @@ JumpLander (جامپ لندر) بزرگ‌ترین جامعه برنامه‌ن�
 ## 👨‍💻 تیم توسعه
 
 | نام | شبکه‌ها |
-|-----|------|---------|
+|-----|---------|
 | JumpLander | [GitHub](https://github.com/jumplander-readme) | [Twitter](https://twitter.com/jumplander) | [Hugging Face](https://huggingface.co/jumplander) |
 | Odyssey | [GitHub](https://github.com/osodyssey) |
 | Outis | [GitHub](https://github.com/outis-dev) |
